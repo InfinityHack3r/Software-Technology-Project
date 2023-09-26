@@ -1,3 +1,12 @@
+<p align = "center">
+
+<h1 align = "center">Software Technology Project</h1>
+<h2 align = "center">| 🐍python |</h2>
+</p>
+
+## **Introduction**
+Welcome to the culmination of the "Software Technology 1 (4483)" course at the University of Canberra. This project showcases the skills, knowledge and expertise acquired throughout the course, all channeled into a Python-driven application. The project is divided into 10 parts each designed to test a specific skill or concept.
+
 # Contents
 
 - [Challenge Activity 1: Population projection](#challenge-activity-1-population-projection)
@@ -10,6 +19,9 @@
 - [Challenge Activity 8: Fat and Carbs Tracker](#challenge-activity-8-fat-and-carbs-tracker)
 - [Challenge Activity 9: Stadium Seating Revenue Calculation Tool](#challenge-activity-9-stadium-seating-revenue-calculation-tool)
 - [Challenge Activity 10: City Skyline Creation with Turtle Graphics Package](#challenge-activity-10-city-skyline-creation-with-turtle-graphics-package)
+
+
+
 
 ## Challenge Activity 1: Population projection
 
