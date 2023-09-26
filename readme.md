@@ -37,7 +37,7 @@ Annual Growth = (birth rate / SECONDS_IN_YEAR) - (death rate / SECONDS_IN_YEAR) 
 
 The formula takes the yearly averages of births, deaths and immigrants and gives us a net annual growth rate.
 
-![pic](/Challenge%20Activity%201%20Population%20projection/excalidraw.png)
+![pic](/Challenge%20Activity%201%20Population%20projection/Excalidraw.png)
 
 ### Evidence of testing
 
