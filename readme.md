@@ -5,7 +5,7 @@
 </p>
 
 ## **Introduction**
-Welcome to the culmination of the "Software Technology 1 (4483)" course at the University of Canberra. This project showcases the skills, knowledge and expertise acquired throughout the course, all channeled into a Python-driven application. The project is divided into 10 parts each designed to test a specific skill or concept.
+Welcome to the culmination of the "Software Technology". This project showcases the skills, knowledge and expertise acquired throughout the course, all channeled into a Python-driven application. The project is divided into 10 parts each designed to test a specific skill or concept.
 
 # Contents
 
